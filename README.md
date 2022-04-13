@@ -1,3 +1,2 @@
-# laba1_structure
-Лабораторная работа номер 1 по Структурам данных - ЛКГ
-Нужно сделать ее до конца недели!!!
+pseudo-random number generator
+The program analyzes the created linear congruential generator
